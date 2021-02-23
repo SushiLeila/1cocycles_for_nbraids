@@ -1,0 +1,1 @@
+This repository contains a jupyter notebook file that cen be used to compute braids invariants in the solid torus. It has been created in the context of 4-braids but could be changed and adapted for any n-braids. It works with Sagemath 8.1 and below. 
